@@ -88,15 +88,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Milindverma24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Milindverma24&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Milindverma24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## GitHub Contribution Snake
 
 <p align="center">
