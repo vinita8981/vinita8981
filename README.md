@@ -1,7 +1,7 @@
-# Milind Verma
+# Vinita sharma
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Welcome Banner"/>
 </p>
 
 ## About Me
@@ -15,9 +15,8 @@
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itsmilindd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-verma-8aa10a308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://buildwithmilind-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinita-sharma-9506a1375])
+
 ## Tools and Technologies
 
 <p align="left">
@@ -103,15 +102,14 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Milindverma24/Milindverma24/gh-pages/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/vinita8981/vinita8981/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
 
 ## Profile Views
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Milindverma24&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=vinita8981&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 ---
 
 <p align="center">
