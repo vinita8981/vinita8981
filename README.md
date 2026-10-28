@@ -15,8 +15,7 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinita-sharma-9506a1375])
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinita-sharma-9506a1375)
 ## Tools and Technologies
 
 <p align="left">
